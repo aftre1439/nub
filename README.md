@@ -47,7 +47,7 @@ Nub parses content into a tree, scores each node by position, topology, and opti
 - **Regional** (10:1) — signatures and docstrings
 - **Overview** (100:1) — names only, then fold markers
 
-Structure is always preserved. Budget pressure falls on implementation details, not on the scaffolding that tells you where you are.
+No matter how big the input is, the structure comes through. A 50,000 line codebase and a 200 line script both fit into the same 10KB window. What gets cut is the body text, not the landmarks you need to navigate.
 
 ## Examples
 
